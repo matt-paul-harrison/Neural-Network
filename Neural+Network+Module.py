@@ -4,7 +4,7 @@ import matplotlib.pyplot as plt
 import random as rand
 
 ## This code implements a generic feed-forward neural network
-## It has been adapted from code introduced at the link below:
+## It has been written based on code introduced at the link below:
 ## http://neuralnetworksanddeeplearning.com/chap1.html
 
 cost_function="Cross Entropy"
